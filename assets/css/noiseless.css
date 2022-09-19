@@ -1,6 +1,6 @@
 html, body {
   height: 100%;
-  width: 100%;
+  -width: 100%;
 }
 
 body {
@@ -79,4 +79,5 @@ input[type="range"].slider-active {
   font-size: 2em;
   width: 100px;
   margin-bottom: 20px;
+  border-radius: 50px;
 }
